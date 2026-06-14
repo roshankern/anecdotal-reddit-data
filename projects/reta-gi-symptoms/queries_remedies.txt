@@ -1,0 +1,63 @@
+# GI REMEDY / FIX query list — every query pairs a fix with a symptom word
+# so we get posts about *solving* the problem, not random mentions.
+# (see gi_symptom_scrape.md). Blank lines and #comments ignored.
+
+# --- OTC meds / supplements + symptom ---
+imodium diarrhea
+loperamide diarrhea
+zofran nausea
+ondansetron nausea
+dramamine nausea
+meclizine nausea
+ginger nausea
+ginger diarrhea
+peppermint nausea
+pepto diarrhea
+pepto bismol nausea
+simethicone gas
+gas-x bloating
+electrolytes diarrhea
+electrolytes nausea
+fiber diarrhea
+psyllium diarrhea
+metamucil diarrhea
+B6 nausea
+vitamin B6 nausea
+probiotics diarrhea
+cagrilintide nausea
+cagri side effects
+
+# --- dose / timing / diet changes + symptom ---
+split dose nausea
+split dose side effects
+lower dose nausea
+lower dose diarrhea
+lower dose side effects
+titrate down side effects
+pin at night nausea
+morning pin nausea
+inject at night side effects
+eat before pin nausea
+empty stomach nausea
+low fat diarrhea
+fatty food diarrhea
+bland diet diarrhea
+small meals nausea
+hydration nausea
+
+# --- outcome-phrased (someone describing a fix that worked) ---
+what helped my nausea
+what helped diarrhea
+nausea went away
+diarrhea stopped
+how to stop diarrhea
+how to stop nausea
+cure for nausea
+remedy for diarrhea
+fixed my nausea
+side effects went away
+
+# --- women-specific + symptom ---
+women side effects
+female diarrhea
+female nausea

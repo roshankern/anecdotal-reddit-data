@@ -1,0 +1,45 @@
+# GI symptom scrape query list (see gi_symptom_scrape.md)
+# Blank lines and #comments are ignored. One query per line.
+
+# --- symptom / discovery (threads full of commenters offering fixes) ---
+diarrhea
+nausea
+GI side effects
+sulfur burps
+sulphur burps
+stomach issues
+upset stomach
+day after injection
+night of pin
+post injection nausea
+diarrhea every week
+nausea after dose
+women side effects
+female side effects
+
+# --- remedy / solution (people naming the fix directly) ---
+what helps nausea
+nausea remedy
+anti nausea
+what helps diarrhea
+imodium
+loperamide
+zofran
+ondansetron
+dramamine
+meclizine
+motion sickness
+ginger
+peppermint
+pepto bismol
+electrolytes
+hydration
+pin in the morning
+pin at night
+dose timing
+split dose
+lower dose
+titrate down
+eat before pin
+low fat meal
+bland food

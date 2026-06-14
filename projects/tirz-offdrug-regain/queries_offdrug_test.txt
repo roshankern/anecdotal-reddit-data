@@ -1,0 +1,16 @@
+# Test query set for tirzepatide off-drug regain/metabolism scrape.
+# Drug name embedded so --sub all stays on-topic. One query per line.
+
+# --- regain ---
+tirzepatide stopped gained weight back
+Mounjaro off regained weight
+Zepbound stopped weight came back
+
+# --- maintain / kept it off ---
+tirzepatide maintained after stopping
+Mounjaro off a year kept it off
+
+# --- metabolism / dependency ---
+tirzepatide off metabolism slower
+Zepbound stopped hungry again
+Mounjaro appetite came back after stopping
